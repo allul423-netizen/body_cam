@@ -64,3 +64,5 @@ cache/
 # Node (if applicable)
 node_modules/
 npm-debug.log
+captures/
+
